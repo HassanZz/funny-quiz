@@ -2,17 +2,14 @@
 Fanny Quiz is a simple project I wrote to learn JavaScript.
 The purpose of this hilarious project is to measure the sissiness of men.
 
----
-##in this project I used:
+## in this project I used:
 * [bootstrap](https://getbootstrap.com/) to facilitate writing css
 * javascript functions (like eventListener, ...)
 * modern javaScript features( like arrow functions, ...)
 
----
 ## TODO
 - [ ] add nightmode
 
----
 ## How to run
 To run funny-quiz, Just use steps below:
 1. Install `javascript` in your system.
